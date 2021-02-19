@@ -1,3 +1,9 @@
+# This is a simple giveaway code. Does what you expect. Chooses a random person after the completion of the time.
+# Big script, so delete these guidelines once in the YAGPDB cc code.
+# Change the values as suited by you. For example the emoji 🎉 or the end message.
+
+
+
 {{$giveawayEmoji:=`🎉`}}{{/*Set Giveaway Emoji*/}}
 {{/*CONFIGURATION VALUES END*/}}
 
